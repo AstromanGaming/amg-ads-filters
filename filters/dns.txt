@@ -1,0 +1,4 @@
+! Title: AmG Ads Filters - DNS / Hosts
+! Description: A Public DNS Filter Make By AstromanGaming
+
+! Start

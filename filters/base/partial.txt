@@ -1,0 +1,4 @@
+! Title: AmG Ads Filters - Base (Partial / Beta)
+! Description: A Public Ads-Blocker Filter Make By AstromanGaming (Warning: not for productive uses)
+
+! Start

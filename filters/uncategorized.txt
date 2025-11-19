@@ -1,6 +1,7 @@
-! Title: amg-ads-filters - Uncategorized
-! Description: Custom Ad Blocker Filter Make By AstromanGaming
+! Title: AmG Ads Filters - Uncategorized / W.I.P. / Experimental
+! Description: A Public Uncategorized Filter Make By AstromanGaming (Warning: this is only a development case; it may not work and may not be suitable for productive use)
 
+! Start
 curseforge.com##div:first-child > div:nth-child(4) > main:last-child > div.ads-layout > div.ads-layout-content:nth-child(2) > div.desktop-only:first-child > a > img.inline-premium-banner
 amazon.ca###nav-subnav-toaster > div.a-section.glow-toaster.glow-toaster-theme-fresh.glow-toaster-slot-subnav
 amazon.ca##._bGlmZ_adLabelContainer_1WsM4, ._bGlmZ_adLabel_3NUZ5
