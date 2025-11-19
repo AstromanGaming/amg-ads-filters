@@ -3,6 +3,7 @@ Dev:
 https://raw.githubusercontent.com/AstromanGaming/amg-ads-filters/refs/heads/main/filters/uncategorized.txt
 
 DNS:
+
 https://raw.githubusercontent.com/AstromanGaming/amg-ads-filters/refs/heads/main/filters/dns.txt
 
 Base:
