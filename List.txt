@@ -1,0 +1,12 @@
+Dev:
+
+https://raw.githubusercontent.com/AstromanGaming/amg-ads-filters/refs/heads/main/filters/uncategorized.txt
+
+DNS:
+https://raw.githubusercontent.com/AstromanGaming/amg-ads-filters/refs/heads/main/filters/dns.txt
+
+Base:
+
+https://raw.githubusercontent.com/AstromanGaming/amg-ads-filters/refs/heads/main/filters/base/stable.txt
+https://raw.githubusercontent.com/AstromanGaming/amg-ads-filters/refs/heads/main/filters/base/partial.txt
+https://raw.githubusercontent.com/AstromanGaming/amg-ads-filters/refs/heads/main/filters/base/unstable.txt
