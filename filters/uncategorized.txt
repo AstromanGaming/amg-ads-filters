@@ -283,3 +283,4 @@ cmeq.org###cc-main > div.cm-wrapper.cc--anim > div.cm.cm--bar.cm--inline.cm--bot
 cmeq.org##.cm, .cm--bar, .cm--inline, .cm--bottom
 amazon.ca##._c2Itd_ad-feedback-text-desktop_q3xp_, ._c2Itd_ad-feedback-text-desktop-grey_2NJqc
 amazon.ca##div[id^="CardInstance"] :is(._c2Itd_content_go-0z, ._c2Itd_enablePointers_32Buw)
+mtl.org##.pub
